@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pritamd47
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
+  - UW-SASWE/RAT
+  - UW-SASWE/ResORR
+  - negin513/LENS2-Dashboard-Python
+  - ProjectPythia/interactive-sentinel-2-cookbook
   - FortAwesome/Font-Awesome
   - mathjax/MathJax
   - jpswalsh/academicons
