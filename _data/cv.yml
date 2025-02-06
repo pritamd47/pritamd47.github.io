@@ -2,96 +2,106 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pritam Das
+    - name: Email
+      value: pdas47@uw.edu
+    - name: Personal Email
+      value: pritamd47@gmail.com
+    - name: Location
+      value: Seattle, WA, USA
     - name: Languages
-      value: English, German
+      value: English, Hindi, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate
+      institution: University of Washington, Seattle WA, USA
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Civil and Environmental Engineering
+        - "Dissertation: <em>Regulated Surface Water: How Much and Where is it Flowing</em>"
+        # - title: "Research"
+          # contents:
+          # - Developed version 2.0 of the satellite remote sensing-based operational reservoir dynamics monitoring framework, Reservoir Assessment Tool (RAT), combining gridded hydrological, meteorological and runoff routing models and Google Earth Engine for tracking fluxes and storage change of reservoirs as an open-source tool. Trained end-users and technical users of the tool involving personnel from member countries of the Mekong River Commission (MRC) and the Asian Disaster Preparedness Center (ADPC).
+          # - Developed and tested a globally scalable river regulation model, ResORR, for modeling the regulation effect of upstream reservoirs on downstream water availability.
+    - title: M.S.
+      institution: University of Washington, Seattle WA, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Civil and Environmental Engineering
+        - "Thesis: <em>Reservoir Assessment Tool 2.0: Stakeholder driven improvements to Satellite Remote Sensing based Reservoir Monitoring</em>"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Civil and Environmental Engineering, University of Washington, Seattle WA, USA
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: SIParCS Summer Intern
+      institution: National Center for Atmospheric Research (NCAR), Boulder CO, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Developed interactive dashboard for visualizing global ensemble gridded predictions and compared two paradigms of building interactive dashboards.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - People's Choice Graduate Poster Presentation
+        - American Water Resources Association (AWRA). Renton WA, USA.
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Department Gold Medal, Department of Earth Sciences
+        - Indian Institute of Technology (IIT) Roorkee, India.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+- title: Trainings and Workshops
+  type: time_table
+  contents: 
+    - title: Hacker at Project Pythia Cook-Off
+      year: 2023
+      institution: National Center for Atmospheric Research, <em>Boulder CO</em>
+      description: Developed <a href="https://projectpythia.org/interactive-sentinel-2-cookbook/notebooks/data-intake-ms-planetary-computer.html">cookbook style guide</a> on how to create interactive visualization of cloud hosted satellite imagery.
+    - title: Hacker at UW Cloud ReproHack
+      institution: eScience Institute, University of Washington, <em>Seattle WA</em>
+      year: 2022
+      description: Reproduced and scaled research work developed on local servers of UW to the AWS cloud platform.
+    - title: Trainer at Satellite Observations and Tools for Reservoir Monitoring in relation to Enhancing Flood and Drought Management in the Mekong Region
+      institution: Asian Disaster Preparedness Centre (ADPC), <em>Bangkok, Thailand</em>
+      year: 2022
+      description: Trained delegates, primarily engineers and water resource managers, of member countries of the Mekong River Commission on the Reservoir Assessment Tool 2.0.
+    - title: Trainer at 3rd SWOT Early Adopter Virtual Hackathon
+      institution: NASA and the University of Washington, Seattle WA
+      year: 2022
+      description: Trained early adopters of the Surface Water and Ocean Topography (SWOT) mission from the ADPC and brainstormed on how to leverage future SWOT observations to enhance existing ADPC projects.
 
-- title: Other Interests
+- title: Peer Review Activity
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Geophysical Research Letters <strong>(1)</strong>
+    - Scientific Reports <strong>(1)</strong>
+    - Environmental Earth Sciences <strong>(1)</strong>
+    - Journal of Open-Source Software <strong>(1)</strong>
+    - Discover Applied Sciences <strong>(1)</strong>
+
+- title: Society Affiliations
+  type: list
+  contents:
+    - <em>Student Member</em> at American Geophysical Union (AGU)
+    - <em>Student Member</em> at American Water Resources Association (AWRA)
+
+- title: Skills & Interests
+  type: list
+  contents:
+    - "<strong>Programming Languages</strong>: Python, Bash, Google Earth Engine"
+    - "<strong>Software</strong>: ArcGIS, QGIS, Git, Figma, Linux"
+    - "<strong>Scientific Packages</strong>: Dask, XArray, HoloViews, NumPy, Pandas"
+    - "<strong>Other Interests</strong>: Photography, Hiking, Volunteering"
