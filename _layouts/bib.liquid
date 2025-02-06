@@ -169,8 +169,10 @@
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
-    {% if entry.pubstate %}
+    {% if entry.pubstate and entry.pubstate != "" and entry.pubstate != "published" %}
       {% capture entrypubstate %}{{ " " }}{{ entry.pubstate | capitalize }}{% endcapture %}
+    {% else %}
+      {% capture entrypubstate %}{% endcapture %}
     {% endif %}
     {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
     {% if hook_exists == 'true' %}

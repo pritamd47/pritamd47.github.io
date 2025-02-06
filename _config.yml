@@ -296,6 +296,9 @@ scholar:
   replace_strings: true
   join_strings: true
 
+  sort_by: ['custom_sort', 'year', 'month']
+  order: descending
+
   details_dir: bibliography
   details_link: Details
 
