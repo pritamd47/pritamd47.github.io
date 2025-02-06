@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>"Only a life lived for others is a life worthwhile."</em> ~Albert Einstein
+subtitle: <em>"If you want to go fast, go alone. If you want to go far, go together."</em>
 
 profile:
   align: right
@@ -18,7 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Biography goes here.
+Hi, I am a PhD candidate at the University of Washington, Seattle. 
+
+My background is in hydrology, remote sensing, and geology.
+I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and improving our understanding of the human footprint on Earth.
+
+I grew up in different parts of the North East region of India. I completed my integrated masters in geological technology from IIT Roorkee, where I was exposed to the field of remote sensing and its applications on improving our understanding of Earth's cryosphere. I continued to pursue my interest in applications of remote sensing to improve our understainding of the Earth during my doctoral studies at the University of Washington.
+
+My research work entails building open-source tools to quantify global water storage dynamics by cloud computing satellite remote sensing and distributed hydrological modeling.
+
+Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar.
+
+Here is a link to my instagram page [m.ildly_aesthetic](https://www.instagram.com/m.ildly_aesthetic/) where I post mildly aesthetic pictures taken by me (submissions welcome!).
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
