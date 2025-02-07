@@ -16,6 +16,10 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+scholar:
+  sort_by: year, month, custom_sort
+  order: descending  # can be either "ascending" or "descending"
 ---
 
 Hi, I am a PhD candidate at the University of Washington, Seattle. 
