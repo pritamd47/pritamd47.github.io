@@ -9,9 +9,11 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    You can reach me at <a href="mailto:pritamd47@gmail.com">pritamd47@gmail.com</a>.
+    <strong>💧 Hydrology | 🛰️ Remote Sensing | 🚰 Water Security | 💻 Modelling</strong>
     <br>
-    I am located at, Wilcox Hall, 2117 Mason Rd, 
+    <a href="mailto:pritamd47@gmail.com">📧 pritamd47@gmail.com</a>
+    <br>
+    📍 Wilcox Hall, 2117 Mason Rd, 
     Seattle 98125, WA, USA
 
 news: false # includes a list of news items
