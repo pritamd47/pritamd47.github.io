@@ -148,9 +148,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -205,6 +205,12 @@ exclude:
   - _posts/
   - _pages/blog.md
   - _pages/dropdown.md
+  # remove projects page
+  - _projects/
+  - _pages/projects.md
+  - _pages/dropdown.md
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
 
 keep_files:
   - CNAME
