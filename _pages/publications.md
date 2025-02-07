@@ -4,6 +4,7 @@ permalink: /publications/
 title: publications
 description: publications by categories in reversed chronological order.
 nav: true
+social: true
 nav_order: 2
 ---
 

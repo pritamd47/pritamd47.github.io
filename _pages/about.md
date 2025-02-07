@@ -9,9 +9,10 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wilcox Hall,</p>
-    <p>2117 Mason Rd,</p>
-    <p>Seattle, WA 98195</p>
+    You can reach me at <a href="mailto:pritamd47@gmail.com">pritamd47@gmail.com</a>.
+    <br>
+    I am located at, Wilcox Hall, 2117 Mason Rd, 
+    Seattle 98125, WA, USA
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
