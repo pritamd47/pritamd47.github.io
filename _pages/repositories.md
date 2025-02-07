@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: assortment of open-source repositories contributed to by me.
+description: assortment of open-source contributions
 social: true
 nav: true
 nav_order: 4

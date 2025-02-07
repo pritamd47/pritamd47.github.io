@@ -7,7 +7,7 @@ first_name: Pritam
 middle_name: 
 last_name: Das
 contact_note: >
-  Best way to reach me is via my personal email at <a href="mailto:pritamd47@gmail.com">pritamd47@gmail.com</a> or my work email at <a href="mailto:pdas47@uw.edu">pdas47@uw.edu</a>.
+  You can reach me at my personal email <a href="mailto:pritamd47@gmail.com">pritamd47@gmail.com</a> or my work email <a href="mailto:pdas47@uw.edu">pdas47@uw.edu</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a PhD Candidate at the Civil and Environmental Engineering Department, University of Washington.
 footer_text: >
@@ -29,7 +29,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
