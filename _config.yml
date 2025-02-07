@@ -7,7 +7,7 @@ first_name: Pritam
 middle_name: 
 last_name: Das
 contact_note: >
-  Best way to reach me would be to email me at pritamd47@gmail.com or pdas47@uw.edu.
+  Best way to reach me is via my personal email at <a href="mailto:pritamd47@gmail.com">pritamd47@gmail.com</a> or my work email at <a href="mailto:pdas47@uw.edu">pdas47@uw.edu</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a PhD Candidate at the Civil and Environmental Engineering Department, University of Washington.
 footer_text: >
