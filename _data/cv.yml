@@ -31,6 +31,12 @@
       description:
         - Civil and Environmental Engineering
         - "Thesis: <em>Reservoir Assessment Tool 2.0: Stakeholder driven improvements to Satellite Remote Sensing based Reservoir Monitoring</em>"
+    - title: M.Tech.
+      institution: Indian Institute of Technology (IIT) Roorkee, India
+      year: 2020
+      description:
+        - Department of Earth Sciences
+        - "Thesis: <em>Snow-cover variability and trend analysis of the Indus basin and Snow-melt runoff modeling of the Beas Basin</em>"
 
 - title: Experience
   type: time_table
