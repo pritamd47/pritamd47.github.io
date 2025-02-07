@@ -14,8 +14,26 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## peer-reviewed articles
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @article[type!=magazine] %}
+</div>
+---
+---
+
+## conference presentations
+<div class="publications">
+
+{% bibliography --query @inproceedings %}
+
+</div>
+---
+---
+
+## magazine articles
+<div class="publications">
+
+{% bibliography --query @article[type=magazine] %}
 
 </div>
