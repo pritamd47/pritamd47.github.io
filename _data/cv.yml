@@ -76,6 +76,9 @@
       year: 2023
       institution: National Center for Atmospheric Research, <em>Boulder CO</em>
       description: Developed <a href="https://projectpythia.org/interactive-sentinel-2-cookbook/notebooks/data-intake-ms-planetary-computer.html">cookbook style guide</a> on how to create interactive visualization of cloud hosted satellite imagery.
+    - title: TA for Remote Sensing for Water Resources
+      year: 2022
+      description: Trained seniors and graduate students on Google Earth Engine (GEE) for cloud-computing of satellite remote-sensing data.
     - title: Hacker at UW Cloud ReproHack
       institution: eScience Institute, University of Washington, <em>Seattle WA</em>
       year: 2022
