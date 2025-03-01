@@ -11,7 +11,7 @@ profile:
   more_info: >
     <strong>💧 Hydrology | 🛰️ Remote Sensing | 🚰 Water Security | 💻 Modelling</strong>
     <br>
-    <a href="mailto:pritamd47@gmail.com">📧 pritamd47@gmail.com</a>
+    <a href="mailto:pritamd47@gmail.com">📧 pritamd47{at}gmail[dot]com</a>
     <br>
     📍 Wilcox Hall, 2117 Mason Rd, 
     Seattle 98125, WA, USA
