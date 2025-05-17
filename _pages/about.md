@@ -11,7 +11,7 @@ profile:
   more_info: >
     <strong>💧 Hydrology | 🛰️ Remote Sensing | 🚰 Water Security | 💻 Modelling</strong>
     <br>
-    <a href="mailto:pritamd47@gmail.com">📧 pritamd47{at}gmail[dot]com</a>
+    📧 pritamd47{at}gmail[dot]com
     <br>
     📍 Wilcox Hall, 2117 Mason Rd, 
     Seattle 98125, WA, USA
@@ -25,9 +25,8 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-Hi, I am a PhD candidate at the University of Washington, Seattle. 
+Hi, I have a background is in hydrology, remote sensing, and geology. I completwd my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle. 
 
-My background is in hydrology, remote sensing, and geology.
 I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and improving our understanding of the human footprint on Earth.
 
 I grew up in different parts of the North East region of India. I completed my integrated masters in geological technology from IIT Roorkee, where I was exposed to the field of remote sensing and its applications on improving our understanding of Earth's cryosphere. I continued to pursue my interest in applications of remote sensing to improve our understainding of the Earth during my doctoral studies at the University of Washington.
