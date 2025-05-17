@@ -7,9 +7,9 @@ first_name: Pritam
 middle_name: 
 last_name: Das
 contact_note: >
-  You can reach me at my personal email <a href="mailto:pritamd47@gmail.com">pritamd47{at}gmail[dawt]com</a> or my work email <a href="mailto:pdas47@uw.edu">pdas47@uw.edu</a>.
+  You can reach me at my personal email pritamd47{at}gmail[däwt]com or my work email pdas47{at}uw[däwt]edu.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a PhD Candidate at the Civil and Environmental Engineering Department, University of Washington.
+  PhD, MS in Civil and Environmental Engineering Department from University of Washington. MTech in Geological Technology from IIT Roorkee.
 footer_text: >
 keywords: hydrology, satellite remote sensing, water security, water resource management # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
