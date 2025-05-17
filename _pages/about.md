@@ -25,15 +25,15 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-Hi, I have a background is in hydrology, remote sensing, and geology. I completwd my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle. 
+Hi, I have a background in hydrology, remote sensing, and geology. I completed my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle, where I studied river regulation due to dams and reservoirs. 
 
-I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and improving our understanding of the human footprint on Earth.
+I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and to use these methods to improve our understanding of the human footprint on Earth.
 
-I grew up in different parts of the North East region of India. I completed my integrated masters in geological technology from IIT Roorkee, where I was exposed to the field of remote sensing and its applications on improving our understanding of Earth's cryosphere. I continued to pursue my interest in applications of remote sensing to improve our understainding of the Earth during my doctoral studies at the University of Washington.
+I completed my integrated masters in geological technology from IIT Roorkee, where I was exposed to the field of remote sensing where I applied it to study snow cover extent in the Himalayas.
 
 My research work entails building open-source tools to quantify global water storage dynamics by cloud computing satellite remote sensing and distributed hydrological modeling.
 
-Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar.
+Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar. 
 
 Here is a link to my instagram page [m.ildly_aesthetic](https://www.instagram.com/m.ildly_aesthetic/) where I post mildly aesthetic pictures taken by me (submissions welcome!).
 
