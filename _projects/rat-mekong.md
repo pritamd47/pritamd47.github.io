@@ -2,7 +2,7 @@
 layout: page
 title: Reservoir Assessment Tool (RAT) - Mekong
 description: Remote Sesnsing and Hydrologic Modeling enables tracking of reservoir operations and water availability in the Mekong River Basin.
-img: assets/img/1.jpg
+img: assets/img/rat-mekong/rat-mekong-homepage-screenshot.jpg
 importance: 1
 category: phd
 related_publications: true
