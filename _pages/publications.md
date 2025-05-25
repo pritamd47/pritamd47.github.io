@@ -17,7 +17,7 @@ nav_order: 2
 ## peer-reviewed articles
 <div class="publications">
 
-{% bibliography --query @article[type!=magazine] %}
+{% bibliography --query @article[type!=magazine && shown_in_publications!=false] %}
 </div>
 ---
 ---
