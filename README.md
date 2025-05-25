@@ -1,6 +1,6 @@
 # Pritam Das's Personal Website
 
-This is the source code for my personal website. It is built using Jekyll and the [al-folio](https://alshedivat.github.io/al-folio/) theme ([al-folio's github](https://github.com/alshedivat/al-folio)). 
+This is the source code for my personal website. It is built using Jekyll and the [al-folio](https://alshedivat.github.io/al-folio/) theme ([al-folio's github](https://github.com/alshedivat/al-folio)).
 
 ## License
 

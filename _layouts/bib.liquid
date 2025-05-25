@@ -169,7 +169,7 @@
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
-    {% if entry.pubstate and entry.pubstate != "" and entry.pubstate != "published" %}
+    {% if entry.pubstate and entry.pubstate != '' and entry.pubstate != 'published' %}
       {% capture entrypubstate %}{{ " " }}{{ entry.pubstate | capitalize }}{% endcapture %}
     {% else %}
       {% capture entrypubstate %}{% endcapture %}

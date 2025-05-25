@@ -22,10 +22,10 @@ social: true # includes social icons at the bottom of the page
 
 scholar:
   sort_by: year, month, custom_sort
-  order: descending  # can be either "ascending" or "descending"
+  order: descending # can be either "ascending" or "descending"
 ---
 
-Hi, I have a background in hydrology, remote sensing, and geology. I completed my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle, where I studied river regulation due to dams and reservoirs. 
+Hi, I have a background in hydrology, remote sensing, and geology. I completed my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle, where I studied river regulation due to dams and reservoirs.
 
 I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and to use these methods to improve our understanding of the human footprint on Earth.
 
@@ -33,7 +33,7 @@ I completed my integrated masters in geological technology from IIT Roorkee, whe
 
 My research work entails building open-source tools to quantify global water storage dynamics by cloud computing satellite remote sensing and distributed hydrological modeling.
 
-Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar. 
+Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar.
 
 Here is a link to my instagram page [m.ildly_aesthetic](https://www.instagram.com/m.ildly_aesthetic/) where I post mildly aesthetic pictures taken by me (submissions welcome!).
 

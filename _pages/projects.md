@@ -2,14 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: -1
-display_categories: [phd]  
+display_categories: [phd]
 horizontal: false
 ---
-<!--other categories: work, fun-->
 
+<!--other categories: work, fun-->
 
 <!-- pages/projects.md -->
 <div class="projects">
