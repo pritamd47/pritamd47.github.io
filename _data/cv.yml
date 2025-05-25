@@ -1,3 +1,15 @@
+#########################################################
+# CV Update checklist:                                  #
+# - [x] CV pdf updated?   _pages/cv.md                  #
+# - [x] Publications updated? _bibliography/papers.bib  #
+# - [x] Generation information                          #
+# - [x] Honors and awards updated?                      #
+# - [x] Experience updated?                             #
+# - [x] Peer review activity updated?                   #
+# - [x] Trainings and workshops updated?                #
+# - [x] Society affiliations updated?                   #
+#########################################################
+
 - title: General Information
   type: map
   contents:
@@ -8,7 +20,7 @@
     - name: Personal Email
       value: pritamd47[at]gmail<dawt>com
     - name: Location
-      value: Seattle, WA, USA
+      value: Agartala, Tr, India
     - name: Languages
       value: English, Hindi, Bengali
 
@@ -21,16 +33,21 @@
       description:
         - Civil and Environmental Engineering
         - "Dissertation: <em>Regulated Surface Water: How Much and Where is it Flowing</em>"
-        # - title: "Research"
-          # contents:
-          # - Developed version 2.0 of the satellite remote sensing-based operational reservoir dynamics monitoring framework, Reservoir Assessment Tool (RAT), combining gridded hydrological, meteorological and runoff routing models and Google Earth Engine for tracking fluxes and storage change of reservoirs as an open-source tool. Trained end-users and technical users of the tool involving personnel from member countries of the Mekong River Commission (MRC) and the Asian Disaster Preparedness Center (ADPC).
-          # - Developed and tested a globally scalable river regulation model, ResORR, for modeling the regulation effect of upstream reservoirs on downstream water availability.
+        - title: "Research"
+          contents:
+            - Bulding on the RAT framework, I developed the ResORR (Reservoir Operations-driven River Regulation) framework to model the regulation of streamflow by dams and reservoirs. <a href="/publications/#dasResORRGloballyScalable2024">Related paper</a>.
+            - I also developed a forecasting module for RAT to predict the future state (inflow, storage, and outflow) of reservoirs, based on weather forecasts and operating scenarios. <a href="/publications/#dasForecastInformedReservoirOperations2025">Related paper</a>.
+            - I investigated the integration of SWOT with existing satellites to improve the accuracy of surface water storage estimation of reservoirs. <a href="/publications/#dasMultisatelliteTrackingSurface2025">Related paper</a>.
     - title: M.S.
       institution: University of Washington, Seattle WA, USA
       year: 2022
       description:
         - Civil and Environmental Engineering
         - "Thesis: <em>Reservoir Assessment Tool 2.0: Stakeholder driven Improvements to Satellite Remote Sensing based Reservoir Monitoring</em>"
+        - title: "Research"
+          contents:
+            - I developed the version 2 of Reservoir Assessment Tool (RAT), significantly improving the accuracy and frequency of storage change estimates of reservoirs, and the accuracy of modeled inflow based on stakeholder feedback. <a href="/publications/#dasReservoirAssessmentTool2022">Related paper</a>.
+            - I also maintained an operational decision support system for the Mekong region, <a href="https://depts.washington.edu/saswe/mekong/">RAT-Mekong</a>. Read more about <a href="../projects/rat-mekong">RAT-Mekong @ projects</a>.
     - title: M.Tech.
       institution: Indian Institute of Technology (IIT) Roorkee, India
       year: 2020
