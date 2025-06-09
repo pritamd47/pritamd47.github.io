@@ -20,7 +20,9 @@ nav_order: 2
 
 {% bibliography --query @article[type!=magazine && shown_in_publications!=false] %}
 
-## </div>
+</div>
+
+---
 
 ---
 
@@ -30,7 +32,9 @@ nav_order: 2
 
 {% bibliography --query @inproceedings %}
 
-## </div>
+</div>
+
+---
 
 ---
 
