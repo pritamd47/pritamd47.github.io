@@ -6,15 +6,16 @@ subtitle: <em>"If you want to go fast, go alone. If you want to go far, go toget
 
 profile:
   align: right
-  image: prof_pic.png
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <strong>💧 Hydrology | 🛰️ Remote Sensing | 🚰 Water Security | 💻 Modelling</strong>
     <br>
-    📧 pritamd47{at}gmail[dot]com
+    📧 pritam.das{at}iitb.ac.in
     <br>
-    📍 Wilcox Hall, 2117 Mason Rd, 
-    Seattle 98125, WA, USA
+    📍 Centre of Studies in Resources Engineering (CSRE), IIT Bombay
+
+    Powai, MH, India - 400076
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,15 +26,20 @@ scholar:
   order: descending # can be either "ascending" or "descending"
 ---
 
-Hi, I have a background in hydrology, remote sensing, and geology. I completed my PhD from the Civil and Environmental Engineering Department at the University of Washington, Seattle, where I studied river regulation due to dams and reservoirs.
+<br>
+Greetings Visitor,
 
-I am interested in the application of state-of-art of remote sensing and computational modeling in water security, water resource management, and to use these methods to improve our understanding of the human footprint on Earth.
+Welcome aboard!
 
-I completed my integrated masters in geological technology from IIT Roorkee, where I was exposed to the field of remote sensing where I applied it to study snow cover extent in the Himalayas.
+You'll find a catalog of my work, news, and miscellaneous updates here.
 
-My research work entails building open-source tools to quantify global water storage dynamics by cloud computing satellite remote sensing and distributed hydrological modeling.
+I am an Assistant Professor at the [Centre of Studies in Resources Engineering (CSRE)](https://www.csre.iitb.ac.in/) at [IIT Bombay](https://www.iitb.ac.in/). I am interested in the **application of state-of-art stallite remote sensing in water resource management**.
 
-Apart from research, I enjoy hiking, clicking pictures, and occasionally strumming my guitar.
+I completed my PhD from the [Civil and Environmental Engineering Department](https://www.ce.washington.edu/) at the [University of Washington](https://www.washington.edu/), [Seattle](https://visitseattle.org/), where I studied river regulation due to dams and reservoirs. Find a more extensive record of my work in the [Publications](publications/) and [Projects](projects/) sections.
+
+My research work so far has entailed building **open-source tools** to **quantify global water storage dynamics** using **satellite remote sensing** and **distributed hydrological modeling**.
+
+Apart from research, you'll find me hiking, clicking pictures, and reading.
 
 Here is a link to my instagram page [m.ildly_aesthetic](https://www.instagram.com/m.ildly_aesthetic/) where I post mildly aesthetic pictures taken by me (submissions welcome!).
 
