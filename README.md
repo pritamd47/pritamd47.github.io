@@ -8,9 +8,10 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
 
-
 # Development
+
 ## To build locally
+
 Using Docker to install Jekyll and Ruby dependencies is the easiest way.
 
 You need to take the following steps to get al-folio up and running on your local machine:
