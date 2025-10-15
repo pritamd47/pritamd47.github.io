@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation",
@@ -37,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-reservoir-assessment-tool-rat-mekong",
+        },{id: "news-hiring-two-teaching-research-assistants-for-funded-phd-spring-2026-intake-the-scholar-will-work-in-satellite-remote-sensing-and-hydrology-on-projects-titled-multi-satellite-sensor-water-probe-and-quantifying-streamflow-in-regulated-rivers-the-topics-are-tentative-and-the-eventual-direction-of-research-may-change-if-you-re-interested-please-send-your-cv-and-a-statement-of-purpose-at-pritam-das-at-iitb-ac-in-apply-at-iitb-s-academics-research-portal",
+          title: 'Hiring two Teaching/Research Assistants for funded PhD (Spring 2026) intake. The scholar will...',
+          description: "",
+          section: "News",},{id: "projects-reservoir-assessment-tool-rat-mekong",
           title: 'Reservoir Assessment Tool (RAT) - Mekong',
           description: "Remote Sesnsing and Hydrologic Modeling enables tracking of reservoir operations and water availability in the Mekong River Basin.",
           section: "Projects",handler: () => {
